@@ -19,7 +19,7 @@ Module.register("calendar", {
 		wrapLocationEvents: false,
 		maxTitleLines: 3,
 		maxEventTitleLines: 3,
-		fetchInterval: 60 * 60 * 1000, // Update every hour
+		fetchInterval: 1 * 60 * 1000, // Update every hour
 		animationSpeed: 2000,
 		fade: true,
 		fadePoint: 0.25, // Start on 1/4th of the list.
