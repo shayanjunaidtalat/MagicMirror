@@ -1,0 +1,11 @@
+{
+  "name": "MMM-PrayerCal",
+  "version": "1.0.0",
+  "description": "MagicMirror module for PrayerCal ICS feed",
+  "main": "MMM-PrayerCal.js",
+  "scripts": {},
+  "dependencies": {
+    "node-fetch": "^2.7.0",
+    "node-ical": "^0.15.0"
+  }
+}

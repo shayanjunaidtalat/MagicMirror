@@ -60,6 +60,19 @@ Temporary Items
 !/modules/default
 !/modules/default/**
 !/modules/README.md**
+!/modules/MMM-Mawaqit
+!/modules/MMM-Mawaqit/**
+!/modules/MMM-PrayerCal
+!/modules/MMM-PrayerCal/**
+!/modules/MMM-Wallpaper
+!/modules/MMM-Wallpaper/**
+!/modules/MMM-Carousel
+!/modules/MMM-Carousel/**
+!/modules/MMM-CalendarExt3
+!/modules/MMM-CalendarExt3/**
+!/modules/MMM-CalendarExt3Agenda
+!/modules/MMM-CalendarExt3Agenda/**
+
 
 # Ignore changes to the custom css files but keep the sample and main.
 /css/*

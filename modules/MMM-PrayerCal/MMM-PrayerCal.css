@@ -1,0 +1,40 @@
+/* Container wrapping the horizontal row */
+.prayer-wrapper {
+  display: flex;
+  justify-content: center;   
+  align-items: center;
+  width: 100%;
+  text-align: center;
+  font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 48px;           /* adjust as needed */
+  font-weight: bold;          /* bold text */
+  color: white;               /* default font color */
+}
+
+/* Individual prayer items */
+.prayer-item {
+  margin: 0 15px;            /* spacing between prayers */
+  display: flex;
+  flex-direction: column;     /* name above time */
+  align-items: center;
+}
+
+/* Prayer name */
+.prayer-name {
+  margin-bottom: 2px;
+  font-weight: inherit;       /* inherit bold from wrapper */
+  color: inherit;             /* ensures white text */
+}
+
+/* Prayer time */
+.prayer-time {
+  font-weight: inherit;       /* inherit bold */
+  color: inherit;             /* ensures white text */
+}
+
+/* Highlight current prayer */
+.current-prayer {
+  color: #ffcc00;            
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+  transition: color 0.3s;
+}
