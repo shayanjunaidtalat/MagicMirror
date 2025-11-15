@@ -72,6 +72,10 @@ Temporary Items
 !/modules/MMM-CalendarExt3/**
 !/modules/MMM-CalendarExt3Agenda
 !/modules/MMM-CalendarExt3Agenda/**
+!/modules/MMM-PublicTransportHafas
+!/modules/MMM-PublicTransportHafas/**
+!/modules/MMM-KeyBindings
+!/modules/MMM-KeyBindings/**
 
 
 # Ignore changes to the custom css files but keep the sample and main.
