@@ -76,6 +76,8 @@ Temporary Items
 !/modules/MMM-PublicTransportHafas/**
 !/modules/MMM-KeyBindings
 !/modules/MMM-KeyBindings/**
+!/modules/MMM-MyTimeline
+!/modules/MMM-MyTimeline/**
 
 
 # Ignore changes to the custom css files but keep the sample and main.

@@ -1,0 +1,110 @@
+{
+    "target_year": 2021,
+    "events": [
+        {
+            "type": "visit",
+            "location": "Started at Ulrich-Zasius-Haus, 90",
+            "time_range": "Start of Day",
+            "lat": 48.0041649,
+            "lng": 7.8307923
+        },
+        {
+            "type": "activity",
+            "location": "Cycling",
+            "time_range": "5:34 PM - 5:48 PM"
+        },
+        {
+            "type": "visit",
+            "location": "25, Hartkirchweg",
+            "time_range": "5:48 PM - 7:47 PM",
+            "lat": 47.97953,
+            "lng": 7.80042
+        },
+        {
+            "type": "activity",
+            "location": "Walking",
+            "time_range": "7:47 PM - 7:53 PM"
+        },
+        {
+            "type": "visit",
+            "location": "Rees Backwaren, 30a",
+            "time_range": "7:53 PM - 7:57 PM",
+            "lat": 47.9835073,
+            "lng": 7.803896
+        },
+        {
+            "type": "activity",
+            "location": "Walking",
+            "time_range": "7:57 PM - 8:03 PM"
+        },
+        {
+            "type": "visit",
+            "location": "25, Hartkirchweg",
+            "time_range": "8:03 PM - 12:04 AM",
+            "lat": 47.97953,
+            "lng": 7.80042
+        }
+    ],
+    "trail": [
+        {
+            "lat": 48.0041649,
+            "lng": 7.8307923
+        },
+        {
+            "lat": 47.9952071,
+            "lng": 7.8158855
+        },
+        {
+            "lat": 47.982791,
+            "lng": 7.8004172
+        },
+        {
+            "lat": 47.9796448,
+            "lng": 7.8003559
+        },
+        {
+            "lat": 47.9796448,
+            "lng": 7.8003559
+        },
+        {
+            "lat": 47.97953,
+            "lng": 7.80042
+        },
+        {
+            "lat": 47.9795656,
+            "lng": 7.8004507
+        },
+        {
+            "lat": 47.9832584,
+            "lng": 7.8033209
+        },
+        {
+            "lat": 47.9829649,
+            "lng": 7.8032224
+        },
+        {
+            "lat": 47.9828243,
+            "lng": 7.8032967
+        },
+        {
+            "lat": 47.9802985,
+            "lng": 7.8029226
+        },
+        {
+            "lat": 47.9796486,
+            "lng": 7.8004857
+        },
+        {
+            "lat": 47.9835073,
+            "lng": 7.803896
+        },
+        {
+            "lat": 47.97953,
+            "lng": 7.80042
+        },
+        {
+            "lat": 48.0040821,
+            "lng": 7.8307521
+        }
+    ]
+}
